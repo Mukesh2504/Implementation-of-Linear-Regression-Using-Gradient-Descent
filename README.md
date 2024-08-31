@@ -15,7 +15,7 @@ To write a program to predict the profit of a city using the linear regression m
 5. Use theta to plot the regression line along with the data points. 
 
 ## Program:
-```
+```py
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: MUKESH A
